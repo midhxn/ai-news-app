@@ -1,2 +1,4 @@
 ### Ai news App
-on progress
+
+
+Made in React With 🔥
