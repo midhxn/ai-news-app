@@ -8,9 +8,9 @@ const App = () =>{
     useEffect(() => {
         alanBtn({
             key: alanKey,
-            onCommand: () =>{
-                if(command==='test'){
-                    alert('all set');
+            onCommand: (command, articles) =>{
+                if(command==='newHeadlines'){
+                    console.log(articles);
                 }
             }
         })
