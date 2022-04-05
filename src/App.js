@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React, {useState, useEffect} from "react";
 import alanBtn from "@alan-ai/alan-sdk-web";
 
 const alanKey= '0cfde074e9998f53f87946989161b8922e956eca572e1d8b807a3e2338fdd0dc/stage';
