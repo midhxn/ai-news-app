@@ -4,4 +4,6 @@ this is powered with Alan Ai and made with Reactjs
 
 AI technology from Alan AI
 
+Alan is an advanced ai technology platform which providesai in many platform
+
 Made in React With 🔥
