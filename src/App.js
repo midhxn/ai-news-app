@@ -6,7 +6,8 @@ import NewsCards from "./components/Newscards/Newscards";
 const alanKey= '0cfde074e9998f53f87946989161b8922e956eca572e1d8b807a3e2338fdd0dc/stage';
 
 const App = () =>{
-
+    const [newsArticles,setNewsArticles] = useState([]);
+    
     useEffect(() => {
         alanBtn({
             key: alanKey,
