@@ -6,4 +6,8 @@ AI technology from Alan AI
 
 Alan is an advanced ai technology platform which providesai in many platform
 
+Demo site:
+
+
+You can visit the demo project and interact with the app.
 Made in React With 🔥
