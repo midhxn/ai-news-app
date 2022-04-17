@@ -51,7 +51,7 @@ export function NewsData() {
             {newsData.map((news) => {
                 return (
                     <div className='grid-child'>
-                        <img className="news-image" src={news?.urlToImage}></img>
+                        <img className="news-image" src={news?.urlToImage} alt='image'></img>
                         <p className='news-title'>{news?.title}</p>
 
                         <p className='news-content'>{news?.content}</p>
