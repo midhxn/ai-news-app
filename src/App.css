@@ -92,19 +92,5 @@ label{
     margin: 10px;
 }
 
-.text-capitalize{
-    text-transform: capitalize;
-    font-weight: 600;
-}
 
 
-.link-url{
-    font-family: Poppins;
-    color: #5f5f5f;
-    font-style: italic;
-}
-
-.noNews{
-    text-align: center;
-    font-family: Poppins;
-}
