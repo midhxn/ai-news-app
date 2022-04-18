@@ -23,8 +23,7 @@ export function NewsData() {
           }
         });
       }, []);
-    
-
+      
     useEffect(() => {
         getAllNews()
    },[selectOption])

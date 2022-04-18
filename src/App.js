@@ -1,5 +1,4 @@
 import './App.css';
-
 import { NewsData } from './components/NewsData';
 
 function App() {
@@ -10,6 +9,4 @@ function App() {
     </div>
   );
 }
-
-
 export default App;
