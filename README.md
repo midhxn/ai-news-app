@@ -6,8 +6,15 @@ AI technology from Alan AI
 
 Alan is an advanced ai technology platform which providesai in many platform
 
-Demo site:
+What i used in this project?
+React Js
+Material Ui
+News Api 
+Alan Ai
+Moment
 
+Demo site:
+temporarly unavailable
 
 You can visit the demo project and interact with the app.
 Made in React With 🔥
