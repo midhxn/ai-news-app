@@ -12,6 +12,8 @@ Material Ui
 News Api 
 Alan Ai
 Moment
+web-vitals
+words-to-numbers
 
 Demo site:
 temporarly unavailable
